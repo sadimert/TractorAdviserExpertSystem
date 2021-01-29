@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.Form1.resources
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.AssemblyInfo.cs
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\bin\Debug\netcoreapp3.1\TractorAdviserExpertSystem.exe
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\bin\Debug\netcoreapp3.1\TractorAdviserExpertSystem.deps.json
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\bin\Debug\netcoreapp3.1\TractorAdviserExpertSystem.runtimeconfig.json
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\bin\Debug\netcoreapp3.1\TractorAdviserExpertSystem.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\bin\Debug\netcoreapp3.1\TractorAdviserExpertSystem.dll
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\bin\Debug\netcoreapp3.1\TractorAdviserExpertSystem.pdb
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.dll
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.pdb
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.genruntimeconfig.cache
+C:\Users\User\Source\Repos\TractorAdviserExpertSystem\TractorAdviserExpertSystem\obj\Debug\netcoreapp3.1\TractorAdviserExpertSystem.Properties.Resources.resources
